@@ -16,8 +16,8 @@
         <ScrollViewer Margin="102,0,10,0" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" VerticalAlignment="Center" VerticalContentAlignment="Center" MaxHeight="95">
             <Grid>
                 <Label Content="Foundation Mod Manager" HorizontalAlignment="Left" Margin="0,0,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
-                <Label Content="v2.02 Midship" HorizontalAlignment="Left" Margin="0,15,0,0" VerticalAlignment="Top"/>
-                <Label Content="Developed by Clef" HorizontalAlignment="Left" Margin="0,30,0,0" VerticalAlignment="Top"/>
+                <Label Content="v2.03 Last Resort" HorizontalAlignment="Left" Margin="0,15,0,0" VerticalAlignment="Top"/>
+                <Label Content="Developed by Clef, Updated by Dirkkane" HorizontalAlignment="Left" Margin="0,30,0,0" VerticalAlignment="Top"/>
                 <Label Content="Special thanks to jabukufo, dany5639 and shad0wshayd3" HorizontalAlignment="Left" Margin="0,45,0,0" VerticalAlignment="Top"/>
             </Grid>
         </ScrollViewer>
